@@ -15,6 +15,7 @@ public class MiniHomeworkGithub {
      */
     public static void main(String[] args) {
         System.out.println("This is my main branch");
+        System.out.println("The changes in the developer branch are not shown in here");
     }
     
 }
